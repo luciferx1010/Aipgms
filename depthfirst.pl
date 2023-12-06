@@ -24,5 +24,5 @@ s(e,i).
 s(e,j).
 
 
-for run type "swipl -s depthfirst.pl", hit enter
-then after "1 ?-" this icon type "goal(f)." hit enter
+#for run type "swipl -s depthfirst.pl", hit enter
+#then after "1 ?-" this icon type "goal(f)." hit enter
