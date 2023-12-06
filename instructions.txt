@@ -1,0 +1,15 @@
+so, if there is no prolog installed in ur machine then follow the below instruction, 
+
+1. make sure if ur machine is connected to internet
+2. Type this command in terminal "sudo add-apt-repository ppa:swi-prolog/stable" and hit enter
+3. type password
+4. After that the command line will give u some lines then click enter to agree to them.
+5. next command is "sudo apt-get update" hit enter
+6. after type "sudo apt-get install swi-prolog" hit enter
+7. After all installation, navigate to directory of your prolog program ex. "cd Desktop/prologprogram"
+8. Then run ur program using this command "swipl -s [program-name.pl] 
+9. for specific program commands check the bottom of program respectively.
+10. Follow the instructions carefully, i've executed every program in this folder, if u find error in it, its ur fault not program's ;-)
+
+
+credit - @luciferx1010
